@@ -2365,7 +2365,7 @@ const allData = [
   [`Sticky note`, `便利贴`],
   [`Stiffness`, `刚度`],
   [`Stop`, `停止`],
-  [`Stop multi-editing`, `停止多重编辑`]
+  [`Stop multi-editing`, `停止多重编辑`],
   [`Straight connector or line`, `直线化连线和直线`],
   [`Straight line`, `直线`],
   [`Straight`, `直线`],
